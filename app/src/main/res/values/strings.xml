@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="google_maps_key">AIzaSyAfG6KtNWfXXXXXXXXXXXXXXXX</string>
+    <string name="Cancel">cancel</string>
+
+    <string-array name="landmark_name">
+        <item>Class of 1927 Bear</item>
+        <item>Stadium Entrance Bear</item>
+        <item>Macchi Bears</item>
+        <item>Les Bears</item>
+        <item>Strawberry Creek Topiary Bear</item>
+        <item>South Hall Little Bear</item>
+        <item>Great Bear Bell Bears</item>
+        <item>Campanile Esplanade Bears</item>
+    </string-array>
+
+    <string-array name="latitude">
+        <item>12.9135218</item>
+        <item>37.871305</item>
+        <item>37.874118</item>
+        <item>37.871707</item>
+        <item>37.869861</item>
+        <item>37.871382</item>
+        <item>37.872061599999995</item>
+        <item>37.87233810000001</item>
+    </string-array>
+
+    <string-array name="longitude">
+        <item>77.5950804</item>
+        <item>-122.252516</item>
+        <item>-122.258778</item>
+        <item>-122.253602</item>
+        <item>-122.261148</item>
+        <item>-122.258355</item>
+        <item>-122.2578123</item>
+        <item>-122.25792999999999</item>
+    </string-array>
+
+    <string-array name="filename">
+        <item>mlk_bear</item>
+        <item>outside_stadium</item>
+        <item>macchi_bears</item>
+        <item>les_bears</item>
+        <item>strawberry_creek</item>
+        <item>south_hall</item>
+        <item>bell_bears</item>
+        <item>bench_bears</item>
+    </string-array>
+
+</resources>

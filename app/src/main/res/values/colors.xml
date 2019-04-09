@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7c5a3e</color>
+    <color name="colorPrimaryDark">#eda356</color>
+    <color name="colorPrimaryDark_Transaparent">#88eda356</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightgray">#9c9c9c</color>
+    <color name="toledo">#373435</color>
+    <color name="white_smoke">#f2f2f2</color>
+    <color name="suva_grey">#919191</color>
+    <color name="nobel">#9c9c9c</color>
+    <color name="white">#ffffff</color>
+    <color name="light_white">#fafafa</color>
+
+    <color name="gray_white">#f6f3f3</color>
+    <color name="light_black">#333333</color>
+    <color name="gray">#919191</color>
+    <color name="light_grey">#e6e6e6</color>
+    <color name="gray_light">#6c6c6c</color>
+    <color name="Transparent">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#005493</color>
+    <color name="blue_light">#167DF7</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="grey_blue">#88A3D3EB</color>
+    <color name="app_logo_color">#D7B070</color>
+
+    <!--this is color pallet-->
+    <color name="grey">#FFE2E6E5</color>
+    <color name="dark">#2f333e</color>
+    <color name="pink">#FCE4EC</color>
+    <color name="green">#04745f</color>
+    <color name="yellow">#ffd300</color>
+
+
+</resources>

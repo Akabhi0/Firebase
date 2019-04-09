@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data></data>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cardOne"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimes_5dp"
+            app:cardBackgroundColor="@color/colorPrimaryDark"
+            app:cardCornerRadius="@dimen/dimes_5dp"
+            app:cardElevation="@dimen/dimes_5dp"
+            tools:ignore="MissingConstraints">
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/chat_conversation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dimes_5dp"
+                android:text="hello"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimes_16sp"
+                android:textStyle="normal" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/chat_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hello"
+            android:textAlignment="center"
+            android:textColor="@color/dark"
+            android:textSize="@dimen/dimes_16sp"
+            android:textStyle="normal"
+            app:layout_constraintTop_toBottomOf="@+id/cardOne"
+            tools:ignore="MissingConstraints" />
+
+
+    </android.support.constraint.ConstraintLayout>
+</layout>
